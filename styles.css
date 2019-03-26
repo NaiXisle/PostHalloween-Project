@@ -1,0 +1,61 @@
+body{background-image:url("https://www.tricksandbeats.com/wp-content/uploads/2017/08/halloween-848x600.jpg");
+background-repeat: no-repeat;
+background-size:100%;
+color: white;
+font-family: 'Ceviche One', cursive;
+font-size: 30px;
+}
+
+
+.header{
+color: orange;    
+    }
+
+.deals{
+display: flex;
+text-align: center;
+  
+    }
+
+#btn1{
+border: solid 6px;
+border-radius:6px;
+border-color: orange;
+    }
+    
+#btn2{
+ border: solid 6px;
+border-radius:6px;
+border-color: orange;   
+    }    
+    
+#main{    
+border: solid 20px;    
+border-radius: 6px;
+border-width: 10px;
+border-color: orange;
+background-color: black;
+    }
+
+.img1{
+    height: 300px;    
+    }    
+.left{
+width: 300px;    
+    }
+    
+.img2{
+    height: 300px;
+    display: flex;
+    align-self: flex-end ;
+
+    }    
+.right{
+width: 300px;    
+    }
+
+.wrap{
+    display: flex;
+    justify-content: space-between;
+    }    
+    
